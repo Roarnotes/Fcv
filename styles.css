@@ -7,9 +7,6 @@ body{
     height: 100%;
     color: #40514E;
 }
-.mountain{
-Width: 39%;
-} 
 .pro{
     text-decoration: underline;
 }
@@ -63,12 +60,13 @@ p{
     width: 15%;
 }
 .mountain{
-    width: auto;
+    width: 45%;
 } 
 .top-container{
     position: relative;
     padding-top: 100px;
     background-color:#D9FAFF;
+    Width: auto;
 }
 .middle-container{
     margin: 100px 0;
@@ -80,6 +78,7 @@ p{
     position: relative;
     height: 140px;
     padding: 50px 0 20px;
+    Width: auto;
 }  
 .footer-link{
     color:#005792;
